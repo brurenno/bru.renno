@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @brurenno
-- 👀 I’m interested in Data Science, Data Analysis, Business Intelligence, Python, SQL, IoT, KPIs, Machine Learning
-- 🌱 Working on a Machine Learning project
-- 💞️ Currently looking for a carreer change and a brand new job as a Data Engineer.
-- 📫 Contact me at: bffrenno@gmail.com
+👋 Hey, I’m @brurenno
+✨ Mechanical mind, data-driven heart. Probably automating something right now. 🤖💻📊
+
+🔍 Exploring: Data Science | Data Analysis | Python | SQL | IoT | Machine Learning | KPIs | Business Intelligence
+🌱 Currently working on: A cool Machine Learning project that might just blow your mind. 💥
+🚀 Career goal: Transitioning into Data Engineering and ready to take on new challenges!
+📫 Let’s connect: bffrenno@gmail.com
 
 <!---
 brunaffrenno/brunaffrenno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
