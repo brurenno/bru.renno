@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bru.renno
+- 👋 Hi, I’m @brurenno
 - 👀 I’m interested in Data Science, Data Analysis, Business Intelligence, Python, SQL, IoT, KPIs, Machine Learning
 - 🌱 I’m currently working on a Machine Learning project
 - 💞️ I’m currently looking for a carreer change and a brand new job as a Data Engineer.
