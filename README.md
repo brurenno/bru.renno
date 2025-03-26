@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @brunaffrenno
-- 👀 I’m interested in Data Science, Data Analysis, Business Intelligence, Python, SQL, IoT, KPIs
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on VBA Projects, SQL and Python
+- 👋 Hi, I’m @bru.renno
+- 👀 I’m interested in Data Science, Data Analysis, Business Intelligence, Python, SQL, IoT, KPIs, Machine Learning
+- 🌱 I’m currently working on a Machine Learning project
+- 💞️ I’m currently looking for a carreer change and a brand new job as a Data Engineer.
 - 📫 Contact me at: bffrenno@gmail.com
 
 <!---
